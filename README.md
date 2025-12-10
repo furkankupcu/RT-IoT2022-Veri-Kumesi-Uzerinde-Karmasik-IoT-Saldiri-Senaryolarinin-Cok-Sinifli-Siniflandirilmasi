@@ -1,0 +1,1 @@
+# RT-IoT2022-Veri-Kumesi-Uzerinde-Karmasik-IoT-Sald-r-Senaryolarinin-Cok-Sinifli-Siniflandirilmasi
